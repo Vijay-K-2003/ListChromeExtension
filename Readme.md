@@ -1,5 +1,5 @@
 ## List Extension
-
+![logo](https://user-images.githubusercontent.com/75903092/148785891-21b55d8b-8dcc-42d8-a64e-6093f8e41870.png)
 ## Inspiration
 
 Managing a Todo list outside chrome is boring so I created a chrome extension that I can edit as per my need.
